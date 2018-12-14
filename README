@@ -1,0 +1,5 @@
+Go to /go/src
+Run go run main.go
+Go to /react-app/
+Run yarn
+Run yarn start
